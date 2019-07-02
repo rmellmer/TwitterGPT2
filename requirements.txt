@@ -54,7 +54,6 @@ PyHamcrest==1.9.0
 pylint==2.2.2
 pyodbc==4.0.26
 pyOpenSSL==19.0.0
-pypiwin32==223
 python-dateutil==2.7.5
 python-ntlm3==1.0.2
 python-twitter==3.5
