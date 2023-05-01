@@ -1,6 +1,6 @@
 tensorflow==1.14.0	
 tensorflow-estimator==1.14.0
-Flask==1.0.3
+Flask==2.3.2
 Flask_Jsonpify==1.5.0
 gpt_2_simple==0.5.3
 Flask_RESTful==0.3.7
